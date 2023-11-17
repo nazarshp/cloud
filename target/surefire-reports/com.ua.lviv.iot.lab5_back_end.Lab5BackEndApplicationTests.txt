@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ua.lviv.iot.lab5_back_end.Lab5BackEndApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.163 s - in com.ua.lviv.iot.lab5_back_end.Lab5BackEndApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.552 s - in com.ua.lviv.iot.lab5_back_end.Lab5BackEndApplicationTests
